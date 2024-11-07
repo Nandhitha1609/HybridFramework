@@ -1,0 +1,214 @@
+16:08:36.340 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:08:36.387 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:08:36.436 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:08:36.436 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:08:36.449 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:08:36.506 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:08:36.510 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:08:36.513 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:08:36.563 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:08:36.564 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:08:36.564 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:08:36.837 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:08:36.837 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:08:36.837 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:08:36.903 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:08:36.903 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:08:36.903 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:08:36.959 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:08:36.962 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:08:36.966 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:08:37.000 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:08:37.000 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:08:37.000 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:08:37.047 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:08:37.047 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:08:37.047 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:08:37.263 [main] INFO  testCases.TC003_LoginDDT - **** Starting verify_loginDDT ****
+16:08:40.743 [main] INFO  testCases.TC003_LoginDDT - **** Finished verify_loginDDT ****
+16:08:40.756 [main] INFO  testCases.TC003_LoginDDT - **** Starting verify_loginDDT ****
+16:08:52.576 [main] INFO  testCases.TC003_LoginDDT - **** Finished verify_loginDDT ****
+16:08:52.579 [main] INFO  testCases.TC003_LoginDDT - **** Starting verify_loginDDT ****
+16:08:55.794 [main] INFO  testCases.TC003_LoginDDT - **** Starting verify_loginDDT ****
+16:09:07.704 [main] INFO  testCases.TC003_LoginDDT - **** Finished verify_loginDDT ****
+16:09:07.711 [main] INFO  testCases.TC003_LoginDDT - **** Starting verify_loginDDT ****
+16:09:11.512 [main] INFO  testCases.TC003_LoginDDT - **** Finished verify_loginDDT ****
+10:34:37.567 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\TestingAutomation\HybridFramework\grouping.xml"
+10:34:37.823 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\TestingAutomation\HybridFramework\grouping.xml
+
+10:35:07.868 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Starting TC001_AccountRegistrationTest ******* 
+10:35:07.868 [main] DEBUG testCases.TC001_AccountRegistrationTest - This is a debud log message
+10:35:07.962 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+10:35:08.373 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+10:35:08.377 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+10:35:09.764 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating excepted message
+10:35:09.804 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest **** 
+10:35:16.836 [main] INFO  testCases.TC002_LoginTest - **** starting TC002_LoginTest ****
+10:35:18.044 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+10:35:56.479 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\TestingAutomation\HybridFramework\grouping.xml"
+10:35:56.715 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\TestingAutomation\HybridFramework\grouping.xml
+
+10:36:03.567 [main] INFO  testCases.TC002_LoginTest - **** starting TC002_LoginTest ****
+10:36:04.831 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+12:51:10.131 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\TestingAutomation\HybridFramework\grouping.xml"
+12:51:10.432 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\TestingAutomation\HybridFramework\grouping.xml
+
+12:51:20.141 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Starting TC001_AccountRegistrationTest ******* 
+12:51:20.142 [main] DEBUG testCases.TC001_AccountRegistrationTest - This is a debud log message
+12:51:20.294 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+12:51:20.733 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+12:51:20.737 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+12:51:22.201 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating excepted message
+12:51:22.243 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest **** 
+12:51:30.407 [main] INFO  testCases.TC002_LoginTest - **** starting TC002_LoginTest ****
+12:51:31.940 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+12:52:23.869 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\TestingAutomation\HybridFramework\grouping.xml"
+12:52:24.132 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\TestingAutomation\HybridFramework\grouping.xml
+
+12:52:31.209 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Starting TC001_AccountRegistrationTest ******* 
+12:52:31.210 [main] DEBUG testCases.TC001_AccountRegistrationTest - This is a debud log message
+12:52:31.349 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+12:52:31.763 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+12:52:31.766 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+12:52:32.996 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating excepted message
+12:52:33.030 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest **** 
+12:52:40.118 [main] INFO  testCases.TC002_LoginTest - **** starting TC002_LoginTest ****
+12:52:41.496 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+12:55:09.268 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\TestingAutomation\HybridFramework\grouping.xml"
+12:55:09.511 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\TestingAutomation\HybridFramework\grouping.xml
+
+12:55:16.805 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Starting TC001_AccountRegistrationTest ******* 
+12:55:16.806 [main] DEBUG testCases.TC001_AccountRegistrationTest - This is a debud log message
+12:55:16.939 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+12:55:17.401 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+12:55:17.403 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+12:55:18.810 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating excepted message
+12:55:18.850 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest **** 
+12:55:25.762 [main] INFO  testCases.TC002_LoginTest - **** starting TC002_LoginTest ****
+13:03:35.370 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\TestingAutomation\HybridFramework\test-output\testng-failed.xml"
+13:03:35.611 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\TestingAutomation\HybridFramework\test-output\testng-failed.xml
+
+13:03:43.154 [main] INFO  testCases.TC002_LoginTest - **** starting TC002_LoginTest ****
+13:03:44.330 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+13:05:03.004 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\TestingAutomation\HybridFramework\master.xml"
+13:05:03.242 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\TestingAutomation\HybridFramework\master.xml
+
+13:05:10.695 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Starting TC001_AccountRegistrationTest ******* 
+13:05:10.696 [main] DEBUG testCases.TC001_AccountRegistrationTest - This is a debud log message
+13:05:10.797 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+13:05:11.226 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+13:05:11.229 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+13:05:12.525 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating excepted message
+13:05:22.573 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed..
+13:05:22.573 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs..
+13:05:30.602 [main] INFO  testCases.TC002_LoginTest - **** starting TC002_LoginTest ****
+13:05:31.777 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+11:55:18.054 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\TestingAutomation\HybridFramework\master.xml"
+11:55:18.307 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\TestingAutomation\HybridFramework\master.xml
+
+11:55:52.448 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\TestingAutomation\HybridFramework\master.xml"
+11:55:52.698 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\TestingAutomation\HybridFramework\master.xml
+
+11:57:02.276 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\TestingAutomation\HybridFramework\master.xml"
+11:57:02.521 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\TestingAutomation\HybridFramework\master.xml
+
+11:57:52.279 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\TestingAutomation\HybridFramework\master.xml"
+11:57:52.515 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\TestingAutomation\HybridFramework\master.xml
+
+11:58:02.844 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Starting TC001_AccountRegistrationTest ******* 
+11:58:02.844 [main] DEBUG testCases.TC001_AccountRegistrationTest - This is a debud log message
+11:58:02.930 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+11:58:03.371 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+11:58:03.374 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+11:58:04.739 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating excepted message
+11:58:04.789 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest **** 
+11:58:12.155 [main] INFO  testCases.TC002_LoginTest - **** starting TC002_LoginTest ****
+11:58:13.430 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+12:00:14.028 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\TestingAutomation\HybridFramework\master.xml"
+12:00:14.274 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\TestingAutomation\HybridFramework\master.xml
+
+12:00:23.901 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Starting TC001_AccountRegistrationTest ******* 
+12:00:23.901 [main] DEBUG testCases.TC001_AccountRegistrationTest - This is a debud log message
+12:00:24.071 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+12:00:24.497 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+12:00:24.500 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+12:00:25.879 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating excepted message
+12:00:25.946 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest **** 
+12:00:34.467 [main] INFO  testCases.TC002_LoginTest - **** starting TC002_LoginTest ****
+12:00:35.774 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+12:01:44.455 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\TestingAutomation\HybridFramework\crossbroswertesting.xml"
+12:01:44.698 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\TestingAutomation\HybridFramework\crossbroswertesting.xml
+
+12:01:53.166 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *******Starting TC001_AccountRegistrationTest ******* 
+12:01:53.166 [TestNG-tests-1] DEBUG testCases.TC001_AccountRegistrationTest - This is a debud log message
+12:01:53.306 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+12:01:53.689 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+12:01:53.694 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+12:01:55.183 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating excepted message
+12:01:55.227 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest **** 
+12:01:58.618 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *******Starting TC001_AccountRegistrationTest ******* 
+12:01:58.619 [TestNG-tests-2] DEBUG testCases.TC001_AccountRegistrationTest - This is a debud log message
+12:01:58.740 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+12:01:59.145 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+12:01:59.145 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+12:02:00.522 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating excepted message
+12:02:00.568 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest **** 
+12:02:37.421 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\TestingAutomation\HybridFramework\crossbroswertesting.xml"
+12:02:37.733 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\TestingAutomation\HybridFramework\crossbroswertesting.xml
+
+12:02:46.842 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *******Starting TC001_AccountRegistrationTest ******* 
+12:02:46.842 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *******Starting TC001_AccountRegistrationTest ******* 
+12:02:46.843 [TestNG-tests-2] DEBUG testCases.TC001_AccountRegistrationTest - This is a debud log message
+12:02:46.843 [TestNG-tests-1] DEBUG testCases.TC001_AccountRegistrationTest - This is a debud log message
+12:02:47.010 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+12:02:47.051 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+12:04:03.472 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\TestingAutomation\HybridFramework\crossbroswertesting.xml"
+12:04:03.726 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\TestingAutomation\HybridFramework\crossbroswertesting.xml
+
+12:04:12.536 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *******Starting TC001_AccountRegistrationTest ******* 
+12:04:12.537 [TestNG-tests-1] DEBUG testCases.TC001_AccountRegistrationTest - This is a debud log message
+12:05:14.409 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\TestingAutomation\HybridFramework\crossbroswertesting.xml"
+12:05:14.650 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\TestingAutomation\HybridFramework\crossbroswertesting.xml
+
+12:05:23.625 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *******Starting TC001_AccountRegistrationTest ******* 
+12:05:23.625 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *******Starting TC001_AccountRegistrationTest ******* 
+12:05:23.625 [TestNG-tests-1] DEBUG testCases.TC001_AccountRegistrationTest - This is a debud log message
+12:05:23.625 [TestNG-tests-2] DEBUG testCases.TC001_AccountRegistrationTest - This is a debud log message
+12:05:23.768 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+12:05:23.831 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+12:08:55.199 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\TestingAutomation\HybridFramework\crossbroswertesting.xml"
+12:08:55.443 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\TestingAutomation\HybridFramework\crossbroswertesting.xml
+
+12:09:06.083 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *******Starting TC001_AccountRegistrationTest ******* 
+12:09:06.083 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *******Starting TC001_AccountRegistrationTest ******* 
+12:09:06.084 [TestNG-tests-2] DEBUG testCases.TC001_AccountRegistrationTest - This is a debud log message
+12:09:06.084 [TestNG-tests-1] DEBUG testCases.TC001_AccountRegistrationTest - This is a debud log message
+12:09:06.307 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+12:09:06.370 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+13:18:11.685 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\TestingAutomation\HybridFramework\master.xml"
+13:18:43.195 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Starting TC001_AccountRegistrationTest ******* 
+13:18:43.196 [main] DEBUG testCases.TC001_AccountRegistrationTest - This is a debud log message
+13:18:43.737 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link 
+13:18:44.378 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+13:18:44.384 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+13:18:46.359 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating excepted message
+13:18:46.484 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest **** 
+13:19:01.531 [main] INFO  testCases.TC002_LoginTest - **** starting TC002_LoginTest ****
+13:19:04.199 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
